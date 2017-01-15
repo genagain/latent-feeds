@@ -6,7 +6,7 @@ ssify = SSLify(app)
 
 @app.route('/')
 def index():
-  return render_template('pyrss2gen.xml'), 201, {'Content-Type': 'application/xml' }
+  return render_template('rss.xml'), 201, {'Content-Type': 'application/xml' }
 
 if __name__ == '__main__':
   app.run(debug=True)

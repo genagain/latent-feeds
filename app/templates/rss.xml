@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+	<channel>
+		<title>HollowBit</title>
+		<link>https://hollowbit.net</link>
+		<atom:link href="https://hollowbit.net/rss.xml" rel="self" type="application/rss+xml" />
+		<description>Small indie game development company working on some cool games.</description>
+		<copyright>Copyright 2017 Nathanael Maher</copyright>
+		<image>
+		  <url>https://hollowbit.net/images/background.png</url>
+		  <title>HollowBit</title>
+		  <link>https://hollowbit.net</link>
+		</image>
+
+						<item>
+				  <title>New Tutorials</title>
+				  <link>https://hollowbit.net/posts/new-tutorials</link>
+				  <guid>https://hollowbit.net/posts/new-tutorials</guid>
+				  <pubDate>Wed, 11 Jan 2017 14:01:27 EST</pubDate>
+				  <description><![CDATA[So the new tutorials are starting to come out, but what about the future?<img align="left" hspace="5" width="640" height="360" src="https://hollowbit.net/images/posts/new-tutorials/thumbnail.png"/>]]></description>
+				</item>
+								<item>
+				  <title>Archipelo DevLog #44</title>
+				  <link>https://hollowbit.net/posts/archipelo-devlog-44</link>
+				  <guid>https://hollowbit.net/posts/archipelo-devlog-44</guid>
+				  <pubDate>Mon, 09 Jan 2017 14:01:56 EST</pubDate>
+				  <description><![CDATA[With this devlog I talk about the addition of the Inventory and Event system.<img align="left" hspace="5" width="640" height="360" src="https://hollowbit.net/images/posts/archipelo-devlog-44/thumbnail.png"/>]]></description>
+				</item>
+								<item>
+				  <title>New Website</title>
+				  <link>https://hollowbit.net/posts/new-website</link>
+				  <guid>https://hollowbit.net/posts/new-website</guid>
+				  <pubDate>Mon, 09 Jan 2017 14:01:25 EST</pubDate>
+				  <description><![CDATA[If you are here, you already knew that!<img align="left" hspace="5" width="640" height="360" src="https://hollowbit.net/images/posts/new-website/thumbnail.png"/>]]></description>
+				</item>
+				
+	</channel>
+</rss>
