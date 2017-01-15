@@ -3,6 +3,7 @@
   <channel>
     <title>Andrew's PyRSS2Gen feed</title>
     <link>http://www.dalkescientific.com/Python/PyRSS2Gen.html</link>
+    <atom:link href="https://cryptic-everglades-63239.herokuapp.com/" rel="self" type="application/rss+xml"/>
     <description>The latest news about PyRSS2Gen, a Python library for generating RSS2 feeds</description>
     <lastBuildDate>Sun, 15 Jan 2017 12:39:09 GMT</lastBuildDate>
     <generator>PyRSS2Gen-1.1.0</generator>
