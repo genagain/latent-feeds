@@ -1,8 +1,6 @@
 import os
 import facebook
-import ipdb
 
-## TODO: hide this!
 access_token = os.environ['FB_ACCESS_TOKEN']
 
 graph = facebook.GraphAPI(access_token = access_token, version='2.5')
